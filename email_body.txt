@@ -1,0 +1,4 @@
+, this can say whatever you want it to say. The program will place the receiver's first name before the comma at the beginning of this text file. So make sure your message is AFTER the comma.
+
+Pretty easy!
+~justin
